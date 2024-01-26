@@ -1,0 +1,31 @@
+.card {
+    border: orange 1px solid;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+.fonts{
+    font-size:11px;
+}
+
+.social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+
+.social-list li{
+    padding:10px;
+    color:#8E24AA;
+    font-size:19px;
+}
+
+
+.message-button{
+    background: #8E24AA;
+    border:1px solid #8E24AA !important;
+    color:#fff;
+    height:40px;
+}

@@ -1,0 +1,39 @@
+.navbar {
+    color: #343a40;
+    background-color: #DCF6CB;
+    border-bottom: 1px solid #f90;
+}
+
+.search-box {
+    margin-right: 10px;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.search-box input {
+    border: 1px solid #f90;
+    /* Faint orange border */
+    border-radius: 5px;
+    background: transparent;
+}
+
+.search-btn {
+    border: 1px solid #f90;
+    /* Faint orange border */
+    color: #f90;
+    /* Orange text */
+}
+
+.post-btn,
+.user-icon {
+    background-color: #f90;
+    /* Orange background */
+    border: none;
+    color: #fff;
+    /* White text */
+}
+
+.navbar-nav .nav-link {
+    margin-right: 10px;
+}
+

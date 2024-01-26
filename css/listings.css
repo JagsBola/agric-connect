@@ -1,0 +1,50 @@
+.listing-container {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+.listing-container > .header {
+    color: #fff;
+    background: #343a40;
+    padding: 15px 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.listing-container > .row {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.listing-container > .row > .col {
+    padding: 10px;
+    background: #B7B3B31A;
+    cursor: pointer;
+}
+
+.parsley-errors-list {
+    color: #dc3545; /* Red color for error messages */
+    font-size: 14px; /* Adjust font size as needed */
+    margin-top: 3px;
+    margin-left: -20px; /* Hide default error message */
+    /* margin-top: 5px; Add space between input and error message */
+}
+
+.header {
+    color: #fff;
+    background: #343a40;
+    padding: 15px 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.post-btn,
+.user-icon {
+    background-color: #f90;
+    /* Orange background */
+    border: none;
+    color: #fff;
+    /* White text */
+}
